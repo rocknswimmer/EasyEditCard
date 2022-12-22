@@ -1,0 +1,43 @@
+{
+  "name": "easyeditcard",
+  "version": "1.0.0",
+  "description": "low funds this year after a 3 month bootcamp while job hunting, so why not deploy a free basic card for personal use and maybe some exposure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --mode=development",
+    "build": "webpack --mode=production",
+    "dev": "webpack serve --open",
+    "server": "nodemon server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rocknswimmer/EasyEditCard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rocknswimmer/EasyEditCard/issues"
+  },
+  "homepage": "https://github.com/rocknswimmer/EasyEditCard#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.18.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.7",
+    "@babel/preset-env": "^7.20.2",
+    "@babel/preset-react": "^7.18.6",
+    "babel-loader": "^9.1.0",
+    "compression-webpack-plugin": "^10.0.0",
+    "css-loader": "^6.7.3",
+    "nodemon": "^2.0.20",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1",
+    "webpack-dev-server": "^4.11.1"
+  }
+}
