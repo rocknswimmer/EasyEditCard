@@ -5,7 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: rgb(249, 3, 3);
+  background-color: rgb(58, 192, 82);
   color: rgb(255, 255, 255);
   display: flex;
   justify-content: center;
@@ -19,7 +19,7 @@ code {
 }
 
 button {
-  background-color: rgb(58, 192, 82);
+  background-color: rgb(249, 3, 3);
   color: rgb(255, 255, 255);
 }
 
@@ -31,10 +31,10 @@ button {
 
 :root {
   --color-primary: #fefefe;
-  --color-secondary: rgb(58, 192, 82);
-  --color-tertiary: rgb(236, 236, 44);
-  --color-quaternary: rgb(58, 192, 82);
-  --color-quinary: rgb(236, 236, 44);
+  --color-secondary: rgb(249, 3, 3);
+  --color-tertiary: #fefefe;
+  --color-quaternary: rgb(249, 3, 3);
+  --color-quinary: #fefefe;
   /*
   --color-primary: #5192ED;
   --color-secondary: #69A1F0;
