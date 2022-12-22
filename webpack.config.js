@@ -1,4 +1,5 @@
 const path = require("path");
+const CompressionPlugin = require("compression-webpack-plugin");
 
 module.exports = {
   mode: "development",
@@ -20,6 +21,7 @@ module.exports = {
       }
     ]
   },
+  plugins: [new CompressionPlugin()],
   devtool: "eval-cheap-module-source-map",
   devServer: {
     static: {

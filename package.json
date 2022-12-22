@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/rocknswimmer/EasyEditCard#readme",
   "dependencies": {
+    "compression": "^1.7.4",
     "express": "^4.18.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
@@ -31,6 +32,7 @@
     "@babel/preset-env": "^7.20.2",
     "@babel/preset-react": "^7.18.6",
     "babel-loader": "^9.1.0",
+    "compression-webpack-plugin": "^10.0.0",
     "css-loader": "^6.7.3",
     "nodemon": "^2.0.20",
     "style-loader": "^3.3.1",
