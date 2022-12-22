@@ -13,7 +13,7 @@ function App() {
   //This is going to be really ugly and bad practice for speed and easy since im using modals and accordians to do a silde show prezy within  a prezy cleaner loop without prezy commented out below
   return (
     <div className="App">
-      <h1>Merry Christmas</h1>
+      <h1 className='text_shadows'>Merry Christmas</h1>
       <br/>
       <button onClick={openModal}>OPEN CARD!</button>
       {openCard &&
