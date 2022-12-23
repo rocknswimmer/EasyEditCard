@@ -19,10 +19,10 @@ function App() {
       {openCard &&
       <Modal
         close={() => {setOpenCard(!openCard);}}
-        content={<div className='card'><div>Instead of just texting you "Merry Christmas" this year, I decided to send you a link to this generic card an internet stranger made! Hope a bit more thought and care goes into your New Year!</div>
+        content={<div className='card'><div>Instead of just texting you "Merry Christmas" this year, I decided to send you a link to this generic family card! Hope a bit more thought and care goes into your New Year!</div>
         <br/>
-        <div className='signature'>Happy Holidays, Love</div>
-        <div className='signature'>Whoever Sent This Link</div>
+        <div className='signature'>Merry Christmas</div>
+        <div className='signature'>Fam</div>
         </div>}
       />}
     </div>
