@@ -9,7 +9,7 @@ app.use(compression());
 
 app.use(express.static(path.join(__dirname, '../public')));
 
-app.listen(3100);
+app.listen(3172);
 
 
-console.log('Listening on port 3100');
+console.log('Listening on port 3172');

@@ -19,10 +19,10 @@ function App() {
       {openCard &&
       <Modal
         close={() => {setOpenCard(!openCard);}}
-        content={<div className='card'><div>Instead of just texting you "Merry Christmas" this year, I decided to send you a link to this generic card an internet stranger made! Hope a bit more thought and care goes into your New Year!</div>
+        content={<div className='card'><div>Even when things are going rough for you, you still make sure I'm taken care of. So after checking my list twice, and obviously comming up nice, I'm glad to be able to gift you this custom card! In all seriousness though, Thank You So Much for all you have given me over the years!  </div>
         <br/>
-        <div className='signature'>Happy Holidays, Love</div>
-        <div className='signature'>Andy</div>
+        <div className='signature'>Merry Christmas,</div>
+        <div className='signature'>Love Andy</div>
         </div>}
       />}
     </div>
