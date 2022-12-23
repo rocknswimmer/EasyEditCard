@@ -3,9 +3,9 @@
 }
 
 .modal-pop {
-  background: rgb(58, 192, 82);
+  background-color: rgb(249, 3, 3);
   border: 2px solid #aaa;
-  color: #D5DBE7;
+  color: #ffffff;
   border-radius: 5px;
   z-index: 2;
   margin: auto;
@@ -43,7 +43,7 @@
 }
 
 .modal-button {
-  background-color: rgb(249, 3, 3);
+  background: rgb(58, 192, 82);
 }
 
 .card{
