@@ -19,9 +19,9 @@ function App() {
       {openCard &&
       <Modal
         close={() => {setOpenCard(!openCard);}}
-        content={<div className='card'><div>message</div>
+        content={<div className='card'><div>You helped out so much while in class I'm glad I can show you the results. Hopefuly my cooking has your taste buds doing somersaults!</div>
         <br/>
-        <div className='signature'>Happy Holidays,</div>
+        <div className='signature'>Merry Christmas</div>
         <div className='signature'>Love Andy</div>
         </div>}
       />}
