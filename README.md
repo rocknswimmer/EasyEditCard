@@ -1,5 +1,7 @@
 # EasyEditCard
-low funds this year while job hunting after a 3 month bootcamp, so why not deploy a free basic card for personal use and maybe some exposure
+low funds this year while job hunting after a 3 month bootcamp, so why not deploy a free basic card to edit for personal use and anyone else who needs a card that only costs time. 
+
+Deployed link has 3 generic cards 3001: classic red, 3002: greetings green, and 3003 one for the fam.
 
 Set up to make you own after forking and cloning.
 
