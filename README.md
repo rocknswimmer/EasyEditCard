@@ -1,8 +1,7 @@
 EasyEditCard
 low funds this year while job hunting after a 3 month bootcamp, so why not deploy a free basic Christmas card to edit for personal use and anyone else who needs a card that only costs time.
 
-Currently transfering projects from EC2 instances, this project may not come along just yet
-Deployed apps has 3 generic cards at ports; [3001](http://52.21.107.140:3001/): classic red, [3002](http://52.21.107.140:3002/): greetings green, and [3003](http://52.21.107.140:3003/): one for the fam.
+Deployed apps taken down, imporved versions may deploy this holidays if stil unemployed
 
 Set up to make your own after forking and cloning.
 
